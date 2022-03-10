@@ -1,0 +1,11 @@
+.navBar h2{
+    color: blue;
+    font-weight: bold;
+    background-color: lightgray;
+    padding: 1rem;
+}
+
+/*
+.navbar button {
+}
+.navbar label {}   */
